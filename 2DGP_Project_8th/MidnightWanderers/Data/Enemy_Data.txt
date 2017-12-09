@@ -1,0 +1,3 @@
+{
+    "Goblin" : {"clip_width" : 158, "clip_height" : 141, "frames_per_action" : 6}
+}

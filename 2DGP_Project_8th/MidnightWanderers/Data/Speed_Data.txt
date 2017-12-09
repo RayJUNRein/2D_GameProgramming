@@ -1,0 +1,6 @@
+{
+    "Map" : { "GWood" : {"speed" : 10.0, "time" : 0.8} },
+    "Character" : {"speed" : 12.0, "time" : 0.8},
+    "Weapon" : { "Arrow" : {"speed" : 25.0, "time" : 1.0} },
+    "Enemy" : { "Goblin" : {"speed" : 6.0, "time" : 0.8} }
+}
