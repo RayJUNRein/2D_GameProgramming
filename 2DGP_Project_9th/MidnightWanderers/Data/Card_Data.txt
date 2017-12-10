@@ -1,0 +1,3 @@
+{
+    "Card" : {"clip_width" : 135, "clip_height" : 140, "frames_per_action" : 4}
+}

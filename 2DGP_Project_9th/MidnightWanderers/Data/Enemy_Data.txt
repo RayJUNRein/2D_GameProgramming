@@ -1,0 +1,4 @@
+{
+    "Goblin1" : {"clip_width" : 176, "clip_height" : 156, "frames_per_action" : 6},
+    "Goblin2" : {"clip_width" : 146, "clip_height" : 131, "frames_per_action" : 6}
+}
