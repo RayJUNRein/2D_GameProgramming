@@ -1,0 +1,3 @@
+{
+    "Road": {"clip_width" : 16, "clip_height" : 35, "frames_per_action" : 12}
+}

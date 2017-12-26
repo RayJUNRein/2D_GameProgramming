@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named posix - imported by os, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named _posixsubprocess - imported by subprocess, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named readline - imported by cmd, code, pdb, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named _winreg - imported by platform, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named 'java.lang' - imported by platform, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named termios - imported by tty, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named _dummy_threading - imported by dummy_threading, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py
+missing module named 'org.python' - imported by copy, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py, netrc, getpass
+missing module named org - imported by pickle, D:\RayJUN_House\Study\2D_GameProgramming\Project\2DGP_Project_10th\MidnightWanderers\MidnightWanderers.py

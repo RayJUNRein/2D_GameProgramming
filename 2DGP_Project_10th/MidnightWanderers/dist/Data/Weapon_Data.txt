@@ -1,0 +1,4 @@
+{
+    "Arrow" : {"clip_width" : 93, "clip_height" : 21, "frames_per_action" : 1},
+    "Bound" : {"clip_width" : 201, "clip_height" : 33, "frames_per_action" : 3}
+}

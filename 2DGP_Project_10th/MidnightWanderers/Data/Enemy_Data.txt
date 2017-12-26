@@ -1,0 +1,6 @@
+{
+    "Goblin" : { "Creation"   : {"clip_width" : 176, "clip_height" : 156, "frames_per_action" :  6},
+                 "Dead"       : {"clip_width" : 162, "clip_height" : 132, "frames_per_action" :  5},
+                 "DeadEffect" : {"clip_width" : 150, "clip_height" :  96, "frames_per_action" : 10},
+                 "Walk"       : {"clip_width" : 146, "clip_height" : 131, "frames_per_action" :  6} }
+}
